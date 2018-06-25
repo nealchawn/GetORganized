@@ -16,7 +16,7 @@
   <li>Digitally Backup Your Files Safely and Securly</li>
   <li>Online or Local Storage</li>
   <li>Optional Webiste to Access Data (Online or local Option)</li>
-  <li>Export to EXcel, CSV, PDF or Print</li>
+  <li>Export to Excel, CSV, PDF or Print</li>
   <li>Documentation and Training for Non Computer People</li>
   <li>Customer Service</li>
   <li>Go Into Any Medium</li>

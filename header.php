@@ -32,10 +32,10 @@
             </div>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Contact Us</a>
+            <a class="nav-link" href="ContactUs.php">Contact Us</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Prices And Are We Right For You</a>
+            <a class="nav-link" href="PriceQuote.php">Prices And Are We Right For You</a>
           </li>
 
         </ul>
