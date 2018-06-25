@@ -1,0 +1,28 @@
+[id="bodytext"]{
+	opacity: .9;
+}
+.forum{
+
+  max-height: 650px;
+  width: 650px;
+  background-color: #F0EAD6;
+  margin: auto;
+  display: table;
+  margin: 0 auto;
+  padding: 14px;
+  overflow: auto;
+  border: none;
+  -webkit-border-radius: 26px;
+  border-radius: 26px; 
+  font-weight:bold;color:#1A2399;
+  letter-spacing:1pt;word-spacing:2pt;font-size:20px;
+  text-align:center;font-family:times new roman, times, serif;
+  line-height:2;
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+  background:  #AED6F1;
+  -webkit-box-shadow: 1px 1px 1px 0 rgba(0,0,0,0.3) ;
+  box-shadow: 1px 1px 1px 0 rgba(0,0,0,0.3) ;
+  text-shadow: 1px 1px 1px rgba(0,0,0,0.2) ;
+  opacity: .5;
+}
