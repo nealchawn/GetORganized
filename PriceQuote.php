@@ -4,8 +4,10 @@
 </head>
 
 <body>
-<h3>Get A Quote</h3>
 
+<div class="forum">
+    <h2>Get A Quote</h2>
+    <p style="font-family:Times New Roman, Georgia, Serif;font-size: 60%;">
 <form action="/action_page.php" method="get">
 <label for="Size">How Many Documents Do You Have?</label><br>
   <input type="checkbox" name="vehicle" value="Bike"> Small(1000 or less)<br>
@@ -27,7 +29,8 @@
   <input type="checkbox" name="vehicle" value="Bike">Typed Vs Scanned<br>
   <input type="submit" value="Submit"><br>
 </form>
-
+</p>
+</div>
 </body>
 
 </html>

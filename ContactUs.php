@@ -4,6 +4,10 @@
 </head>
 
 <body>
+<div class="forum">
+    <h2>Contact Us</h2>
+    <p style="font-family:Times New Roman, Georgia, Serif;font-size: 60%;">
+        
 <form id="contact-form" method="post" action="contact.php" role="form">
 
                         <div class="messages"></div>
@@ -60,7 +64,8 @@
                         </div>
 
                     </form>
-
+</p>
+</div>
 </body>
 
 </html>

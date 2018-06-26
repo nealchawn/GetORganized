@@ -5,8 +5,8 @@
 
 <body>
 
-  <div class="forum"><p style="font-family:Times New Roman, Georgia, Serif;font-size: 100%;">
-  <h1>What We DO</h2>
+  <div class="forum"><p style="font-family:Times New Roman, Georgia, Serif;font-size: 60%;">
+  <h1>What We Do</h2>
   <p>
   We Will help your business by Taking all of your records, data, and Paper Documents and putting it in a Database. 
   But We also offer A range of other services.

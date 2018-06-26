@@ -3,13 +3,13 @@
 }
 .forum{
 
-  max-height: 650px;
-  width: 650px;
+  max-height: 750px;
+  width: 70%;
   background-color: #F0EAD6;
   margin: auto;
   display: table;
   margin: 0 auto;
-  padding: 14px;
+  padding: 70px;
   overflow: auto;
   border: none;
   -webkit-border-radius: 26px;
