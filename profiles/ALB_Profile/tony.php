@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+<?php include '~/header.php'; ?>
 
   <div class="float-right">
     <img src="assets/tony.jpg" class="rounded-circle" alt="Cinque Terre" width="324" height="430"> 
